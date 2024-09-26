@@ -18,21 +18,4 @@ What is Cloud Resume Challenge? - [The Cloud Resume Challenge](https://cloudresu
 - GitHub Actions
 - Terraform
 
-## [Live Demo 🔗](https://resume.rishab.cloud)
 
-## YouTube Series
-
-- Part 1 - [What is the Cloud Resume Challenge?](https://youtu.be/NNKzYhvqq5w)
-- Part 2 - [Setting up S3 bucket and CloudFront](https://youtu.be/P5UGhdud_ss)
-- Part 3 - [Setting up Dynamo DB and AWS Lambda Function](https://youtu.be/x5iTWZbOgww)
-- Part 4 - [Lambda and JavaScript to get viewer counter](https://youtu.be/x6TIihJSaLA)
-- Part 5 - [Setting up Git repo and CI/CD for frontend website](https://youtu.be/qFEf6iOo-4g)
-- Part 6 - [Implementing Infrastructure as Code with Terraform](https://youtu.be/rzdSuiU_TQc)
-
- 
-## Author
-- Twitter: [@rishabincloud](https://twitter.com/rishabincloud)
-- LinkedIn: [rishabkumar7](https://linked.com/in/rishabkumar7)
-  
-## Stars
-[![Stargazers over time](https://starchart.cc/rishabkumar7/aws-cloud-resume-challenge.svg?variant=adaptive)](https://starchart.cc/rishabkumar7/aws-cloud-resume-challenge)

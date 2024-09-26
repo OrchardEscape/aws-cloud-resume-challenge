@@ -26,9 +26,9 @@ function toggle_onclick($win, $navbar, width) {
 
 var typed = new Typed('#typed', {
     strings: [
-        'Cloud Engineer',
-        'Cloud Architect',
-        'DevOps Engineer'
+        'Detection and Response',
+        'Enterprise Security',
+        'iOS and MacOS Security'
     ],
     typeSpeed: 50,
     backSpeed: 50,
@@ -37,9 +37,9 @@ var typed = new Typed('#typed', {
 
 var typed_2 = new Typed('#typed_2', {
     strings: [
-        'Cloud Engineer',
-        'Cloud Architect',
-        'DevOps Engineer'
+        'Detection and Response',
+        'Enterprise Security',
+        'iOS and MacOS Security'
     ],
     typeSpeed: 50,
     backSpeed: 50,
@@ -59,7 +59,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 const counter = document.querySelector(".counter-number");
 async function updateCounter() {
     let response = await fetch(
-        "https://wwjcx7tyxrbjmbkf3vc3teo3mu0qrvhq.lambda-url.ca-central-1.on.aws/"
+        "https://d5dk3ye35dm2hhder3poin35ta0cqmfb.lambda-url.us-east-1.on.aws/"
     );
     let data = await response.json();
     counter.innerHTML = `👀 Views: ${data}`;
