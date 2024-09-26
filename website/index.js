@@ -26,9 +26,9 @@ function toggle_onclick($win, $navbar, width) {
 
 var typed = new Typed('#typed', {
     strings: [
-        'Detection and Response',
-        'Enterprise Security',
-        'iOS and MacOS Security'
+        'Security Software Engineer',
+        'Enterprise Security Architect',
+        'iOS and MacOS Security Researcher'
     ],
     typeSpeed: 50,
     backSpeed: 50,
